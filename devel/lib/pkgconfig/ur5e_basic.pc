@@ -1,0 +1,8 @@
+prefix=/home/lgx/ur5e_master_ws/devel
+
+Name: ur5e_basic
+Description: Description of ur5e_basic
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

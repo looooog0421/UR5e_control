@@ -1,0 +1,2 @@
+robotiq_85_msgs:ur5e_basic-master
+-DCATKIN_DEVEL_PREFIX=/home/lgx/ur5e_master_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lgx/ur5e_master_ws/install -G Unix Makefiles
